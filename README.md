@@ -9,8 +9,11 @@ Heya heya, this is my EFI for the Hackintosh that I'm running with my 840 G5 Seq
 Anyway, there are my device features:
 
 [x] Intel(R) Core(TM) i7-8650U
+
 [x] Intel HD Graphics 620
+
 [x] Samsung 256GB PM981 NVMe SSD
+
 [x] Intel Dual Band Wireless-AC 8265
 
 This is pretty much all ig
